@@ -1,10 +1,9 @@
 title: Jung Hyun-woo's BLOG # name of the site
-author: Riccardo Graziosi # name of site's author
-email: riccardo.graziosi97@gmail.com # email of site's author
+author: 정현우
+email: wjdgusdn48@gmail.com
 url: https://ro-cks.github.io # root address of the site
 baseurl: "" 
-description: > # description of the site (multiple lines allowed)
-  A (nearly) no-CSS, fast, minimalist Jekyll theme.
+description: 배운 것들을 까먹지 않기 위해 기록합니다.
 
 permalink: /:slug.html
 
@@ -18,7 +17,7 @@ theme_config:
   back_home_text: ".." # customize text for homepage link in post layout
   date_format: "%Y-%m-%d" # customize how date is formatted
   show_description: false # show blog description in home page
-  lowercase_titles: true # show titles in lowercase in lists
+  lowercase_titles: false # show titles in lowercase in lists
 
 sass:
   style: compressed
